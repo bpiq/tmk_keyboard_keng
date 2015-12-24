@@ -30,6 +30,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #include "keymap_common.h"
 #include "rgb.h"
 
+#include "light_ws2812.h"
 
 #ifndef DEBOUNCE
 #   define DEBOUNCE	5
