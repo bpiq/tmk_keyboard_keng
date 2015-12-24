@@ -1,4 +1,4 @@
-2015/12/24 forked from <https://github.com/kairyu/tmk_keyboard_custom>
+2015/12/24 from <https://github.com/kairyu/tmk_keyboard_custom>
 来自kai大的github，自己学着用
 
 TMK Keyboard Firmware Collection
