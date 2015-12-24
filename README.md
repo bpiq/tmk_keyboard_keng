@@ -1,5 +1,5 @@
-2015/12/24 from <https://github.com/kairyu/tmk_keyboard_custom>
-À´×Ôkai´óµÄgithub£¬×Ô¼ºÑ§×ÅÓÃ
+ï»¿2015/12/24 from <https://github.com/kairyu/tmk_keyboard_custom>
+æ¥è‡ªkaiå¤§çš„githubï¼Œè‡ªå·±å­¦ç€ç”¨
 
 TMK Keyboard Firmware Collection
 ================================
